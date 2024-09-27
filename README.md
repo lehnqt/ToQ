@@ -1,2 +1,2 @@
 # TenOpt
-A matlab package for optimal quantum control with tensor networks.
+A package for optimal quantum control with tensor networks.
